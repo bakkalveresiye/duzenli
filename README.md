@@ -1,1 +1,3 @@
 # duzenli
+
+Paketbot gibi benzer bir altyapıya sahip. Fakat paket servis işletmeleri değil. Pet shop, su, tüp gibi hizmetler sunan işletmeler için bir sistem kuracağız. Bu sistemde örneğin kedi maması biteceğinde öngören müşterinin satın alma sıklığı, kaç tane kedisinin olduğu, kedisinin kilosu, kedi kumunun bitme zamanının yaklaştığını öngörecek bir WhatsApp botu kurmalıyız ve bunları her bir işletmeye pazarlamalıyız. Şimdi yeni bir GitHub reposu oluşturuyorum. İsmi düzenle. Bunun readme dosyasını paketbot'tan ilham alarak yaz. a101 pati diye bi uygulama çıkarmış,petshopların bu gibi tekellerle rekabet edebilmesi lazım
